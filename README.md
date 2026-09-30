@@ -16,3 +16,4 @@ Note: "meticheapp" was the project name before the official application name and
 
 Created by **Enzo Ricardo Cortés**  
 © 2026 Enzo Ricardo Cortés. All rights reserved.
+---
