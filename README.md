@@ -13,7 +13,13 @@ Constella is a private social atlas that places you at the center of the people,
 Note: "meticheapp" was the project name before the official application name and thus the main file name before getting to the swift files.
 
 > *"Don't walk in front of me, I may not follow. Don't walk behind me, I may not lead. Just walk beside me and be my friend." -- Albert Camus*
+---
+## Maprunning Project (in progress)
+---
+## Apple Maps Innovative Concept (in progress)
+---
 
+---
 Created by **Enzo Ricardo Cortés**  
 © 2026 Enzo Ricardo Cortés. All rights reserved.
 ---
