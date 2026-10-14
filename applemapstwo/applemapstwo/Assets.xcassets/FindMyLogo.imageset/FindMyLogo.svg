@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="68.810997mm"
+   height="68.811195mm"
+   viewBox="0 0 68.810997 68.811195"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       x1="445"
+       y1="0"
+       x2="445"
+       y2="890"
+       id="linearGradient-1"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#5CEF80"
+         offset="0%"
+         id="stop840" />
+      <stop
+         stop-color="#0ACD47"
+         offset="100%"
+         id="stop842" />
+    </linearGradient>
+    <linearGradient
+       x1="445"
+       y1="7.1054274e-15"
+       x2="445"
+       y2="890"
+       id="linearGradient-2"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#82EA8D"
+         offset="0%"
+         id="stop845" />
+      <stop
+         stop-color="#4BD054"
+         offset="100%"
+         id="stop847" />
+    </linearGradient>
+    <circle
+       id="path-3"
+       cx="445"
+       cy="445"
+       r="290" />
+    <filter
+       x="-0.024827586"
+       y="-0.024827586"
+       width="1.0496552"
+       height="1.0548276"
+       filterUnits="objectBoundingBox"
+       id="filter-4">
+      <feOffset
+         dx="0"
+         dy="3"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset851" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur853" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite855" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix857" />
+    </filter>
+    <linearGradient
+       x1="445"
+       y1="0"
+       x2="445"
+       y2="890"
+       id="linearGradient-5"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#5CEF80"
+         offset="0%"
+         id="stop860" />
+      <stop
+         stop-color="#2BBF5C"
+         offset="100%"
+         id="stop862" />
+    </linearGradient>
+    <circle
+       id="path-6"
+       cx="445"
+       cy="445"
+       r="445" />
+    <linearGradient
+       x1="389.1308"
+       y1="62.218155"
+       x2="389.1308"
+       y2="469.30261"
+       id="linearGradient-8"
+       gradientTransform="scale(1.143565,0.8744584)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#00ACFF"
+         stop-opacity="0"
+         offset="0%"
+         id="stop866" />
+      <stop
+         stop-color="#005EE5"
+         offset="100%"
+         id="stop868" />
+    </linearGradient>
+    <circle
+       id="path-9"
+       cx="445"
+       cy="445"
+       r="125" />
+    <filter
+       x="-0.168"
+       y="-0.168"
+       width="1.336"
+       height="1.368"
+       filterUnits="objectBoundingBox"
+       id="filter-10">
+      <feOffset
+         dx="0"
+         dy="4"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset872" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur874" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite876" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix878" />
+      <feOffset
+         dx="0"
+         dy="4"
+         in="SourceAlpha"
+         result="shadowOffsetOuter2"
+         id="feOffset880" />
+      <feGaussianBlur
+         stdDeviation="12.5"
+         in="shadowOffsetOuter2"
+         result="shadowBlurOuter2"
+         id="feGaussianBlur882" />
+      <feComposite
+         in="shadowBlurOuter2"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter2"
+         id="feComposite884" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.75 0"
+         type="matrix"
+         in="shadowBlurOuter2"
+         result="shadowMatrixOuter2"
+         id="feColorMatrix886" />
+      <feMerge
+         id="feMerge892">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode888" />
+        <feMergeNode
+           in="shadowMatrixOuter2"
+           id="feMergeNode890" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       x1="445"
+       y1="7.1054274e-15"
+       x2="445"
+       y2="890"
+       id="linearGradient-1-0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#5CEF80"
+         offset="0%"
+         id="stop1153" />
+      <stop
+         stop-color="#0ACD47"
+         offset="100%"
+         id="stop1155" />
+    </linearGradient>
+    <linearGradient
+       x1="445"
+       y1="7.1054274e-15"
+       x2="445"
+       y2="890"
+       id="linearGradient-2-6"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#82EA8D"
+         offset="0%"
+         id="stop1158" />
+      <stop
+         stop-color="#4BD054"
+         offset="100%"
+         id="stop1160" />
+    </linearGradient>
+    <circle
+       id="path-3-5"
+       cx="445"
+       cy="445"
+       r="290" />
+    <filter
+       x="-0.024827586"
+       y="-0.024827586"
+       width="1.0496552"
+       height="1.0548276"
+       filterUnits="objectBoundingBox"
+       id="filter-4-0">
+      <feOffset
+         dx="0"
+         dy="3"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset1164" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur1166" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite1168" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix1170" />
+    </filter>
+    <linearGradient
+       x1="445"
+       y1="0"
+       x2="445"
+       y2="890"
+       id="linearGradient-5-6"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#5CEF80"
+         offset="0%"
+         id="stop1173" />
+      <stop
+         stop-color="#2BBF5C"
+         offset="100%"
+         id="stop1175" />
+    </linearGradient>
+    <circle
+       id="path-6-7"
+       cx="445"
+       cy="445"
+       r="445" />
+    <linearGradient
+       x1="389.1308"
+       y1="62.218155"
+       x2="389.1308"
+       y2="469.30261"
+       id="linearGradient-8-1"
+       gradientTransform="scale(1.143565,0.8744584)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#00ACFF"
+         stop-opacity="0"
+         offset="0%"
+         id="stop1179" />
+      <stop
+         stop-color="#005EE5"
+         offset="100%"
+         id="stop1181" />
+    </linearGradient>
+    <circle
+       id="path-9-8"
+       cx="445"
+       cy="445"
+       r="125" />
+    <filter
+       x="-0.168"
+       y="-0.168"
+       width="1.336"
+       height="1.368"
+       filterUnits="objectBoundingBox"
+       id="filter-10-7">
+      <feOffset
+         dx="0"
+         dy="4"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset1185" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur1187" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite1189" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix1191" />
+      <feOffset
+         dx="0"
+         dy="4"
+         in="SourceAlpha"
+         result="shadowOffsetOuter2"
+         id="feOffset1193" />
+      <feGaussianBlur
+         stdDeviation="12.5"
+         in="shadowOffsetOuter2"
+         result="shadowBlurOuter2"
+         id="feGaussianBlur1195" />
+      <feComposite
+         in="shadowBlurOuter2"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter2"
+         id="feComposite1197" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.75 0"
+         type="matrix"
+         in="shadowBlurOuter2"
+         result="shadowMatrixOuter2"
+         id="feColorMatrix1199" />
+      <feMerge
+         id="feMerge1205">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode1201" />
+        <feMergeNode
+           in="shadowMatrixOuter2"
+           id="feMergeNode1203" />
+      </feMerge>
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-121.70525,-84.483665)">
+    <g
+       stroke="none"
+       stroke-width="1"
+       fill="none"
+       fill-rule="evenodd"
+       transform="matrix(0.06719843,0,0,0.06719843,121.70525,84.483665)">
+      <rect
+         id="Origin-Color"
+         fill="none"
+         x="0"
+         y="0"
+         width="1023.9971"
+         height="1024"
+         rx="215.91597"
+         ry="215.91597" />
+      <g
+         id="Radar"
+         transform="translate(67,67)">
+        <circle
+           id="Oval"
+           stroke="url(#linearGradient-2)"
+           stroke-width="3"
+           fill="url(#linearGradient-1)"
+           cx="445"
+           cy="445"
+           r="443.5"
+           style="fill:url(#linearGradient-1-0);stroke:url(#linearGradient-2-6)" />
+        <g
+           id="g1218">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-4)"
+             xlink:href="#path-3-5"
+             id="use1212"
+             style="filter:url(#filter-4-0)"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <use
+             fill-opacity="0.25"
+             fill="#373737"
+             fill-rule="evenodd"
+             style="mix-blend-mode:overlay"
+             xlink:href="#path-3-5"
+             id="use1214"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <circle
+             stroke-opacity="0.25"
+             stroke="#ffffff"
+             stroke-width="18"
+             cx="445"
+             cy="445"
+             r="281"
+             id="circle1216" />
+        </g>
+        <g
+           id="Group">
+          <mask
+             id="mask-7"
+             fill="#ffffff">
+            <use
+               xlink:href="#path-6-7"
+               id="use1220"
+               x="0"
+               y="0"
+               width="100%"
+               height="100%" />
+          </mask>
+          <use
+             id="use1223"
+             fill="url(#linearGradient-5)"
+             opacity="0"
+             xlink:href="#path-6-7"
+             style="fill:url(#linearGradient-5-6)"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <polygon
+             id="Rectangle"
+             stroke="#37f251"
+             stroke-width="5"
+             fill="url(#linearGradient-8)"
+             mask="url(#mask-7)"
+             points="445.5,445 155,-67 735,-67 "
+             style="fill:url(#linearGradient-8-1)" />
+        </g>
+        <g
+           id="g1233">
+          <use
+             fill="#000000"
+             fill-opacity="1"
+             filter="url(#filter-10)"
+             xlink:href="#path-9-8"
+             id="use1227"
+             style="filter:url(#filter-10-7)"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+          <circle
+             stroke="#0061db"
+             stroke-width="43"
+             fill="#007aff"
+             fill-rule="evenodd"
+             cx="445"
+             cy="445"
+             r="103.5"
+             id="circle1229" />
+          <circle
+             stroke="#ffffff"
+             stroke-width="38"
+             cx="445"
+             cy="445"
+             r="106"
+             id="circle1231" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
