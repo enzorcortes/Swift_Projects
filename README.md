@@ -16,11 +16,11 @@ Note: "meticheapp" was the project name before the official application name and
 ---
 ## 🏆 Umbasa
 
-📁🔗 [Umbasa, project files](https://github.com/enzorcortes/Swift_Projects/tree/main/umbasa/umbasa)
-
 Make your move. Turn everyday fitness into local competition, connection, and discovery.
 
 Umbasa is a native SwiftUI fitness app prototype that brings territory competition, venue crowns, crews, athlete profiles, and community discovery into one experience. The ambition is to make your city feel like a shared playground—and give every workout a reason to happen beyond the numbers.
+
+📁🔗 [Umbasa, project files](https://github.com/enzorcortes/Swift_Projects/tree/main/umbasa/umbasa)
 
 > *"Battle is the most magnificent competition in which a human being can indulge. It brings out all that is best; it removes all that is base." – George Patton*
 ---
