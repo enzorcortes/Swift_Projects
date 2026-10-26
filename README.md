@@ -14,7 +14,7 @@ Note: "meticheapp" was the project name before the official application name and
 
 > *"Don't walk in front of me, I may not follow. Don't walk behind me, I may not lead. Just walk beside me and be my friend." -- Albert Camus*
 ---
-## Umbasa
+## 🏆 Umbasa
 
 📁🔗 [Umbasa, project files](https://github.com/enzorcortes/Swift_Projects/tree/main/umbasa/umbasa)
 
@@ -24,7 +24,7 @@ Umbasa is a native SwiftUI fitness app prototype that brings territory competiti
 
 > *"Battle is the most magnificent competition in which a human being can indulge. It brings out all that is best; it removes all that is base." – George Patton*
 ---
-## 🗺️ Apple Maps 2.0
+## 📍 Apple Maps 2.0
 
 A SwiftUI concept that brings maps, trusted community reviews, location sharing, and nearby events into one cohesive Apple-inspired experience.
 The mission of this project is to explore what Apple Maps could become if more of the Apple ecosystem lived directly on the map.
